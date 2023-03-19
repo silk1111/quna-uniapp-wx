@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "home-header": "/pages/Home/components/Header",
+    "homme-icons": "/pages/Home/components/Icons",
+    "home-holiday": "/pages/Home/components/Holiday"
+  }
+}

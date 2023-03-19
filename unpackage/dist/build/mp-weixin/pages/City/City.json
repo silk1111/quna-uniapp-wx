@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "city-header": "/pages/City/components/Header",
+    "city-list": "/pages/City/components/List"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "header": "/pages/Detail/components/Header",
+    "swiper": "/common/Swiper/Swiper",
+    "information": "/pages/Detail/components/Information",
+    "footer": "/pages/Detail/components/Footer",
+    "div-content": "/pages/Detail/components/DivContent"
+  }
+}

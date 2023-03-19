@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["common/Swiper/Swiper"],{"3cab":function(n,t,e){"use strict";e.r(t);var i=e("6109"),a=e("64dd");for(var o in a)["default"].indexOf(o)<0&&function(n){e.d(t,n,(function(){return a[n]}))}(o);e("4676");var c=e("f0c5"),r=Object(c["a"])(a["default"],i["b"],i["c"],!1,null,"76c9ee78",null,!1,i["a"],void 0);t["default"]=r.exports},4676:function(n,t,e){"use strict";var i=e("5ae7"),a=e.n(i);a.a},"5ae7":function(n,t,e){},6109:function(n,t,e){"use strict";e.d(t,"b",(function(){return i})),e.d(t,"c",(function(){return a})),e.d(t,"a",(function(){}));var i=function(){var n=this.$createElement;this._self._c},a=[]},"64dd":function(n,t,e){"use strict";e.r(t);var i=e("b0d4"),a=e.n(i);for(var o in i)["default"].indexOf(o)<0&&function(n){e.d(t,n,(function(){return i[n]}))}(o);t["default"]=a.a},b0d4:function(n,t,e){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var i={name:"MySwiper",data:function(){return{imgIndex:0,nowIndex:0,isGallaryShow:!1,swiperList:[{id:"0001",url:"http://n.sinaimg.cn/sinacn16/300/w1620h1080/20180317/7cc0-fyshfuq8223482.jpg"},{id:"0002",url:"http://n.sinaimg.cn/sinacn16/300/w1620h1080/20180317/ed9b-fyshfuq8221806.jpg"},{id:"0003",url:"http://n.sinaimg.cn/sinacn16/298/w1620h1078/20180317/af1a-fyshfuq8222255.jpg"}]}},components:{Gallary:function(){Promise.all([e.e("common/vendor"),e.e("common/Gallary/Gallary")]).then(function(){return resolve(e("aaf7"))}.bind(null,e)).catch(e.oe)}},mounted:function(){},methods:{handleClickImg:function(n){console.log(this.nowIndex),this.imgIndex=this.nowIndex,this.isGallaryShow=!0},handleGallary:function(){this.isGallaryShow=!1},changeNowIndex:function(n){this.nowIndex=n.detail.current}}};t.default=i}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'common/Swiper/Swiper-create-component',
+    {
+        'common/Swiper/Swiper-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("3cab"))
+        })
+    },
+    [['common/Swiper/Swiper-create-component']]
+]);

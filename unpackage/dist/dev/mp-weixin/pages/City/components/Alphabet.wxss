@@ -1,0 +1,16 @@
+.alphabet.data-v-d709633e {
+  position: fixed;
+  top: 4.76rem;
+  right: 0.1rem;
+  z-index: 10;
+  width: 0.52rem;
+}
+.alphabet .alphabet-item.data-v-d709633e {
+  color: #00AFC7;
+  font-size: 0.24rem;
+  width: 0.32rem;
+  line-height: 0.32rem;
+  padding-left: 0.2rem;
+  text-align: center;
+}
+

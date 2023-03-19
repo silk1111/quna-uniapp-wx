@@ -1,0 +1,16 @@
+{
+  "pages": [
+    "pages/Home/Home",
+    "pages/City/City",
+    "pages/Detail/Detail"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "去哪网",
+    "navigationBarBackgroundColor": "#00AFC7",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

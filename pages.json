@@ -1,0 +1,27 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/Home/Home",
+			"style": {
+				
+			}
+		}
+		,
+		{
+			"path": "pages/City/City"
+		}
+		,
+		{
+			"path": "pages/Detail/Detail"
+		}
+	],
+	"globalStyle": {
+		"navigationStyle":"custom",//不展示头部
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "去哪网",
+		"navigationBarBackgroundColor": "#00AFC7",
+		"backgroundColor": "#F8F8F8"
+		
+	},
+	"uniIdRouter": {}
+}

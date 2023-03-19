@@ -1,0 +1,39 @@
+.information.data-v-181a18c8 {
+  z-index: 5;
+  position: relative;
+  top: -0.14rem;
+  border-top-left-radius: 0.2rem;
+  border-top-right-radius: 0.2rem;
+  background-color: #fff;
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+}
+.information .all-price.data-v-181a18c8 {
+  height: 0.8rem;
+}
+.information .all-price .price.data-v-181a18c8 {
+  display: inline-block;
+  position: relative;
+  top: -0.14rem;
+  height: 0.7rem;
+  margin-right: 0.2rem;
+}
+.information .all-price .normal-size.data-v-181a18c8 {
+  font-size: 0.3rem;
+}
+.information .all-price .big-size.data-v-181a18c8 {
+  font-size: 0.5rem;
+  font-weight: bold;
+}
+.information .all-price .orange.data-v-181a18c8 {
+  color: #fa8209;
+}
+.information .all-price .gray.data-v-181a18c8 {
+  color: #999999;
+}
+.information .name.data-v-181a18c8 {
+  margin-top: 0.1rem;
+  font-size: 0.38rem;
+  color: #232323;
+}
+

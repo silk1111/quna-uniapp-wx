@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "season-holiday": "/pages/Home/components/SeasonHoliday"
+  }
+}

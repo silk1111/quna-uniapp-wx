@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "city-alphabet": "/pages/City/components/Alphabet",
+    "city-search": "/pages/City/components/Search"
+  }
+}

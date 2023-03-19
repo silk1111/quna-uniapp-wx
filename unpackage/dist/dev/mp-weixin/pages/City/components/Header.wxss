@@ -1,0 +1,34 @@
+.stateHeight.data-v-352f6afb {
+  width: 100%;
+  height: 25px;
+}
+.city-header.data-v-352f6afb {
+  height: 0.88rem;
+  width: 100%;
+  background-color: #00AFC7;
+  font-size: 0.36rem;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 25px;
+  left: 0;
+  z-index: 10;
+}
+.city-header .return.data-v-352f6afb {
+  display: inline-block;
+  color: #fff;
+  line-height: 0.88rem;
+  width: 0.4rem;
+  font-size: 0.36rem;
+  padding-left: 0.22rem;
+  font-weight: 600;
+}
+.city-header .city-header-title.data-v-352f6afb {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  line-height: 0.88rem;
+  color: #fff;
+  text-align: center;
+}
+

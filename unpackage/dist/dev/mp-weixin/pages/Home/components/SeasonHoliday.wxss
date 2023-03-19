@@ -1,0 +1,101 @@
+.home-title.data-v-ca12effa {
+  height: 0.56rem;
+  font-size: 0.25rem;
+  padding-left: 0.2rem;
+}
+.home-title ._a.data-v-ca12effa {
+  margin-right: 0.12rem;
+  display: inline-block;
+  border: 1px solid #d7d7d7;
+  font-size: 0.25rem;
+  height: 0.56rem;
+  line-height: 0.56rem;
+  padding: 0 0.26rem;
+  border-radius: 0.08rem;
+}
+.home-title ._a.active.data-v-ca12effa {
+  background-color: #00AFC7;
+  color: #fff;
+}
+.holiday-cards.data-v-ca12effa {
+  width: auto;
+  margin: 0.1rem 0.2rem;
+}
+.holiday-cards .holiday-card.data-v-ca12effa {
+  width: 49%;
+  font-size: 0.3rem;
+  float: left;
+}
+.holiday-cards .holiday-card.data-v-ca12effa:nth-child(2n) {
+  padding-left: 2%;
+}
+.holiday-cards .holiday-card .holiday-top.data-v-ca12effa {
+  width: 100%;
+  height: 2.15rem;
+  overflow: hidden;
+  position: relative;
+}
+.holiday-cards .holiday-card .holiday-top .holiday-img.data-v-ca12effa {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.1rem;
+}
+.holiday-cards .holiday-card .holiday-top .holiday-title.data-v-ca12effa {
+  width: 100%;
+  height: 40%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  overflow: hidden;
+}
+.holiday-cards .holiday-card .holiday-top .holiday-title .holiday-title-in.data-v-ca12effa {
+  display: inline-block;
+  height: 100%;
+  padding: 0.1rem 0.44rem;
+  background: rgba(0, 0, 0, 0.6);
+}
+.holiday-cards .holiday-card .holiday-top .holiday-title .holiday-title-in .holiday-title-site.data-v-ca12effa {
+  color: #fff;
+  font-size: 0.29rem;
+  line-height: 0.4rem;
+}
+.holiday-cards .holiday-card .holiday-top .holiday-title .holiday-title-in .holiday-title-message.data-v-ca12effa {
+  font-size: 0.24rem;
+  color: #ffde00;
+  line-height: 0.31rem;
+}
+.holiday-cards .holiday-card .holiday-infor.data-v-ca12effa {
+  width: auto;
+  padding: 0.1rem;
+}
+.holiday-cards .holiday-card .holiday-infor .holiday-name.data-v-ca12effa {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 0.43rem;
+}
+.holiday-cards .holiday-card .holiday-infor .holiday-desc.data-v-ca12effa {
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 0.43rem;
+  color: #555555;
+  font-size: 0.27rem;
+  line-height: 0.41rem;
+}
+.holiday-cards .holiday-card .holiday-infor .holiday-price.data-v-ca12effa {
+  color: #ff7400;
+  font-size: 0.36rem;
+  font-weight: 550;
+  margin-top: 0.05rem;
+  line-height: 0.42rem;
+}
+.holiday-cards .holiday-card .holiday-infor .holiday-price .holiday-price-more.data-v-ca12effa {
+  font-size: 0.29rem;
+  font-weight: 400;
+  margin-left: 0.06rem;
+}
+

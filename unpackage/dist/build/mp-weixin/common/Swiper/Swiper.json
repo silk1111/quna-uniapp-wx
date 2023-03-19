@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "gallary": "/common/Gallary/Gallary"
+  }
+}

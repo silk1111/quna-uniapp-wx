@@ -1,0 +1,70 @@
+.detail-header-simple.data-v-20becd21 {
+  height: 0.88rem;
+  line-height: 0.88rem;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+}
+.detail-header-simple .header-left.data-v-20becd21 {
+  height: 0.88rem;
+  line-height: 0.88rem;
+  width: 0.88rem;
+  text-align: center;
+  font-size: 0.5rem;
+  color: #fff;
+  float: left;
+}
+.detail-header-simple .header-left .iconfont.data-v-20becd21 {
+  font-size: 0.5rem;
+}
+.detail-header-simple .header-right.data-v-20becd21 {
+  height: 0.88rem;
+  line-height: 0.88rem;
+  width: 0.88rem;
+  text-align: center;
+  font-size: 0.5rem;
+  color: #fff;
+  float: right;
+  margin-left: 0.2rem;
+}
+.detail-header-simple .header-right .iconfont.data-v-20becd21 {
+  font-size: 0.5rem;
+}
+.detail-header-simple .header-icon.data-v-20becd21 {
+  background-color: rgba(56, 57, 57, 0.9);
+  border-radius: 0.44rem;
+}
+.detail-header-full.data-v-20becd21 {
+  height: 0.88rem;
+  line-height: 0.88rem;
+  position: fixed;
+  width: 100%;
+  z-index: 10;
+  background-color: #00AFC7;
+}
+.detail-header-full .header-left.data-v-20becd21 {
+  height: 0.88rem;
+  line-height: 0.88rem;
+  width: 0.88rem;
+  text-align: center;
+  font-size: 0.5rem;
+  color: #fff;
+  float: left;
+}
+.detail-header-full .header-left .iconfont.data-v-20becd21 {
+  font-size: 0.5rem;
+}
+.detail-header-full .header-right.data-v-20becd21 {
+  height: 0.88rem;
+  line-height: 0.88rem;
+  width: 0.88rem;
+  text-align: center;
+  font-size: 0.5rem;
+  color: #fff;
+  float: right;
+  margin-left: 0.2rem;
+}
+.detail-header-full .header-right .iconfont.data-v-20becd21 {
+  font-size: 0.5rem;
+}
+
